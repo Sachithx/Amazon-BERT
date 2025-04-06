@@ -1,0 +1,24 @@
+EVALUATION RESULTS
+========================================
+Accuracy: 0.7302
+Precision: 0.7373
+Recall: 0.7302
+F1 Score: 0.7327
+========================================
+
+Classification Report:
+Class Negative:
+  Precision: 0.7650
+  Recall: 0.7635
+  F1-Score: 0.7642
+  Support: 65000.0
+Class Neutral:
+  Precision: 0.6092
+  Recall: 0.6669
+  F1-Score: 0.6367
+  Support: 65000.0
+Class Positive:
+  Precision: 0.8378
+  Recall: 0.7601
+  F1-Score: 0.7971
+  Support: 65000.0
