@@ -59,6 +59,12 @@ To evaluate a trained model:
 ./evaluate.sh
 ```
 
+You can download the pre-trained sentiment analysis models from the following link:
+[👉 Download Pre-trained Models on Google Drive](https://drive.google.com/drive/folders/1_wouPl61-PrD_-xzm5OT1nhGp1Q2tlvr?usp=sharing)
+
+
+After downloading, place the model folder (e.g., saved_models/) in your project root directory or specify the path in the --model_path argument when running the evaluation script or notebook.
+
 Or run the evaluation script directly with custom parameters:
 
 ```bash
@@ -111,6 +117,13 @@ This implementation includes several optimizations:
 - Early stopping to prevent overfitting
 - Learning rate scheduling with warmup
 
+## License
+
+[Specify your license here]
+
+## Citation
+
+[If applicable]
 
 ## Acknowledgements
 
