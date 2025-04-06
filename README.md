@@ -117,13 +117,6 @@ This implementation includes several optimizations:
 - Early stopping to prevent overfitting
 - Learning rate scheduling with warmup
 
-## License
-
-[Specify your license here]
-
-## Citation
-
-[If applicable]
 
 ## Acknowledgements
 
